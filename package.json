@@ -1,0 +1,19 @@
+{
+  "name": "status-rule-conversion",
+  "version": "0.0.1",
+  "description": "status-rule-conversion",
+  "main": "gen-config-file.js",
+  "dependencies": {
+    "gm": "^1.23.1",
+    "graphicsmagick": "0.0.1",
+    "pdfkit": "~0.1.9",
+    "read-excel-file": "^2.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "BL",
+  "license": "BSD"
+}
